@@ -1,13 +1,11 @@
-
-import './App.css';
-import Menu from './Components/menu';
+import "./assets/css/style.css";
+import Note from "./components/note/note";
 
 function App() {
   return (
-    <>
-    <Menu/>
-    </>
-    
+    <div className="App">
+      <Note />
+    </div>
   );
 }
 

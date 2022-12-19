@@ -21,7 +21,8 @@ const Note = () => {
                   <textarea defaultValue={""} />
                 </div>
                 <div className="newNote-footer">
-                  {/*<span>Oct 16 2022</span>*/}
+                  {/*<span>lab1 Pro2 SHAH Oct 16 2022</span>*/}
+                  {/*<span>lab4 Alter SHAH Dec 09 2022</span>*/}
                   <br />
                   <button type="button">Add Note</button>
                 </div>
